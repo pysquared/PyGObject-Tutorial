@@ -1,4 +1,6 @@
 build
 *~
+*.mo
 *.py[co]
+__pycache__
 source/locale
